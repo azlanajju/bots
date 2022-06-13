@@ -163,12 +163,12 @@ background-image:url(bg.png);
 
   .bots h1 {
     position: absolute;
-    margin-left: 25px;
+    
     padding: 0;
     top: 80%;
     text-align: center;
     transform: translateY(-50%);
-    width: 100%;
+    
     text-align: centre;
     color: #ddd;
     font-size: 80px;
@@ -202,7 +202,7 @@ background-image:url(bg.png);
   color: white;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 15px;
+  font-size: 14px;
   display: block;
 }
 
