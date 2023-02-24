@@ -1,1 +1,1 @@
-# bots [https://bots20.netlify.app
+# bots [https://bots20.netlify.app]
